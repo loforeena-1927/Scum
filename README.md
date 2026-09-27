@@ -240,4 +240,4 @@ SCUM is offered as a complete free version with all features included and regula
 Don't miss out on the adventure! Download SCUM today and immerse yourself in the ultimate survival experience.
 
 ---
-**Last updated:** 2026-09-27 05:57:43 UTC
+**Last updated:** 2026-09-27 11:20:22 UTC
